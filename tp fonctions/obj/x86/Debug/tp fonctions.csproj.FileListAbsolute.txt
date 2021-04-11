@@ -1,0 +1,15 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\bin\Debug\tp fonctions.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\bin\Debug\tp fonctions.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\obj\x86\Debug\tp_fonctions.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\obj\x86\Debug\tp_fonctions.Properties.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\obj\x86\Debug\tp fonctions.csproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\obj\x86\Debug\tp fonctions.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\tp fonctions\obj\x86\Debug\tp fonctions.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\obj\x86\Debug\tp fonctions.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\obj\x86\Debug\tp fonctions.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\bin\Debug\tp fonctions.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\bin\Debug\tp fonctions.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\obj\x86\Debug\tp fonctions.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\obj\x86\Debug\tp_fonctions.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\obj\x86\Debug\tp_fonctions.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp fonctions\tp fonctions\obj\x86\Debug\tp fonctions.csproj.GenerateResource.Cache
